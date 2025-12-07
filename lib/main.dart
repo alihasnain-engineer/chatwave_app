@@ -2,21 +2,16 @@ import 'package:flutter/material.dart';
 import 'splash_screen.dart';
 
 void main() {
-  runApp(const ChatWaveApp());
+  runApp(const ChatWave());
 }
 
-class ChatWaveApp extends StatelessWidget {
-  const ChatWaveApp({super.key});
+class ChatWave extends StatelessWidget {
+  const ChatWave({super.key});
 
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-      title: 'ChatWave',
       debugShowCheckedModeBanner: false,
-      theme: ThemeData(
-        primarySwatch: Colors.indigo,
-        scaffoldBackgroundColor: Colors.grey[100],
-      ),
       home: const SplashScreen(),
     );
   }
