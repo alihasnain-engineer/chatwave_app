@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "321639964106",
+    "project_id": "wavychat-5dbc6",
+    "storage_bucket": "wavychat-5dbc6.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:321639964106:android:5eccfc3085e0e4c7c80333",
+        "android_client_info": {
+          "package_name": "com.wavy_chat.wavy_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "321639964106-bfid0lfv6img32qf4b4k1jc6vgfmpus6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBawWXo0jtLNZ5X5ogh__O5vyWjM7dW6v8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "321639964106-bfid0lfv6img32qf4b4k1jc6vgfmpus6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
+
